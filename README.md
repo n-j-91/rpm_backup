@@ -3,7 +3,7 @@
 # Author Nayanajith Chandradasa
 # Date: 2017-10-29
 
-This script will archive any rpms which are older than a specified time period to a backup location.
+This script will archive any rpms to a backup location, which are older than a specified time period.
 
 You can also define a value for minimum number of rpms to be retained at the original repository.
 
